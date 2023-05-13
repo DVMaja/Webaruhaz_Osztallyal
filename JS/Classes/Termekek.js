@@ -4,8 +4,7 @@ import Termek from "./Termek.js";
 class Termekek {
     #adatLista = [];
     #kedvencekLista = [];
-    
-    
+        
     constructor(adatLista){
         this.#adatLista = adatLista;
         this.#kedvencekLista;
@@ -17,6 +16,11 @@ class Termekek {
             const termek = new Termek(adatLista[index], szuloELEM);
             
         }
+
+        $(window).on("kedvenc", (event) => {
+            this.#kedvencekLista.push(event.detail);
+            
+        })
     }
 }
 

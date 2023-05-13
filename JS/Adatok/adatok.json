@@ -1,5 +1,5 @@
 {
-    "adatLISTA": [
+  "adatLISTA": [
     {
       "cim": "Skulduggery Pleasant",
       "kep": "skulduggery_1.png",
@@ -8,7 +8,7 @@
       "kiadasDatuma": 2007
     },
     {
-     "cim": "Playing with Fire",
+      "cim": "Playing with Fire",
       "kep": "skulduggery_2.png",
       "iro": "Derek Landy",
       "mufaly": "fantasy",
@@ -103,8 +103,7 @@
       "kep": "skulduggery_15.png",
       "iro": "Derek Landy",
       "mufaly": "dark fantasy",
-     "kiadasDatuma": 2022
+      "kiadasDatuma": 2022
     }
   ]
 }
-  

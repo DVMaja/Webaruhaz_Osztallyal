@@ -11,5 +11,6 @@ main {
     width: 80%;
 }
 .taroloElem {
-
+    display: flex;
+    gap: 10px;
 }
